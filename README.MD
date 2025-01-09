@@ -2,7 +2,6 @@
 
 <img width="400" src="./assets/guitarlogo.png">
 </p>
--------
 
 # A Jornada da Guitarra: Do Básico ao Avançado
 
