@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/assets/guitarlogo.png">
 </p>
 
 
@@ -17,7 +17,7 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# A Jornada da Guitarra: Do Básico ao Avançado
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://copilot.microsoft.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título épico e curto para um ebook sobre como aprender guitarra, com foco em iniciantes que querem se tornar avançados. O título deve ter uma temática de jornada de herói. Me liste 5 variações de títulos.                                                        |
+| conteúdo | Crie um texto para o ebook com o título “A Jornada da Guitarra: Do Básico ao Avançado”. O conteúdo deve abranger o aprendizado desde os primeiros acordes até as técnicas avançadas, detalhando o que o estudante deve aprender em cada fase e como isso contribui para o desenvolvimento musical. |
 
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem de um guitarrista em sua jornada de aprendizado, indo de iniciante até se tornar um mestre, com foco no processo de dominar a guitarra. A imagem deve retratar os desafios e as vitórias que fazem parte desse caminho. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Copilot
 
 ## 📚 Materiais
 
