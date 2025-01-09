@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/guitarlogo.png">
+    <img width="100" src="./assets/guitarlogo.png">
 </p>
 
 
