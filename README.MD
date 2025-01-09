@@ -1,15 +1,8 @@
 <p align="center">
 
 <img width="400" src="./assets/guitarlogo.png">
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
 </p>
+-------
 
 # A Jornada da Guitarra: Do Básico ao Avançado
 
